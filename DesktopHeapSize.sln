@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopHeapSize", "DesktopHeapSize\DesktopHeapSize.csproj", "{9C5EEB7C-5C11-4E61-8046-5A987CC70C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{99953C09-D462-465B-B567-6EA914E0F7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5EEB7C-5C11-4E61-8046-5A987CC70C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5EEB7C-5C11-4E61-8046-5A987CC70C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5EEB7C-5C11-4E61-8046-5A987CC70C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5EEB7C-5C11-4E61-8046-5A987CC70C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99953C09-D462-465B-B567-6EA914E0F7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99953C09-D462-465B-B567-6EA914E0F7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99953C09-D462-465B-B567-6EA914E0F7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99953C09-D462-465B-B567-6EA914E0F7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
